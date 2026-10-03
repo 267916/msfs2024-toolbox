@@ -1,0 +1,13 @@
+# A350 工具箱 —— 直链配置
+# 格式：  key=下载直链        key_home=项目主页
+# 留空 = 待发布。改完保存，重启工具箱即可生效，无需重新编译。
+# AI 副驾驶发布到 GitHub 后，把下面 copilot= 和 copilot_home= 填上即可。
+
+amdb=https://github.com/267916/amdb-bridge-zh/releases/latest/download/AMDB-Bridge-ZH-v1.2.zip
+amdb_home=https://github.com/267916/amdb-bridge-zh
+
+efb=https://github.com/267916/a350-zh/releases/latest/download/A350-ZH-v1.1.zip
+efb_home=https://github.com/267916/a350-zh
+
+copilot=
+copilot_home=
